@@ -1,0 +1,13 @@
+[package]
+name = "fft_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Stukalov Artem <artemss2003@yandex.ru>"]
+license = "MIT"
+description = "Cyclic algorithm for calculating the Fourier transform"
+readme = "README.md"
+repository = "https://github.com/TUTOR03/FFT_rust"
+keywords = ["fft", "fourier"]
+
+[dependencies]
+num = "0.4.0"
